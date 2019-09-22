@@ -15,6 +15,8 @@ import babyAmnah from "./img/babyAmnah.png";
 import babyHussain from "./img/babyHussain.png";
 import babylailaB from "./img/babylailaB.png";
 import babyHessah from "./img/babyHessah.png";
+import babySarah from "./img/babySarah.png";
+import babyReem from "./img/babyReem.png";
 
 const imgArray = [
   { name: "alyaa", image: babyAlyaa },
@@ -33,7 +35,9 @@ const imgArray = [
   { name: "amnah", image: babyAmnah },
   { name: "hussain", image: babyHussain },
   { name: "laila b", image: babylailaB },
-  { name: "hessah", image: babyHessah }
+  { name: "hessah", image: babyHessah },
+  { name: "sarah", image: babySarah },
+  { name: "reem", image: babyReem }
 ];
 
 export default imgArray;
